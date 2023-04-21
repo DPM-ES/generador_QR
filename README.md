@@ -1,4 +1,4 @@
-# genrador_QR
+# generador_QR
 Script y aplicaciones para crear QRs
 
 He creado este pequeño script para crear QRs para mi uso personal, pero subo el código por si a alguien le sirviera. De momento es demasiado básico, con el tiempo espero mejorarlo.
