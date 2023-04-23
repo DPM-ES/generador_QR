@@ -2,7 +2,7 @@
     Generador de códigos QR
     Version: 1.0
     Programa por terminar para generar un QR a partir de los datos pasados
-    Autor: DPM_ES
+    Autor: DPM_ES Es el puto AMO y no es broma
 """
 # Importaciones
 import qrcode
