@@ -43,7 +43,7 @@ def main_menu():
 
 def menu_qr_web():
     """
-    Función que muestra el submeno de generar un QR de una web, recoge los datos y los manda a la función generadora,
+    Función que muestra el submenú de generar un QR de una web, recoge los datos y los manda a la función generadora,
     si todo ha salido bien indica que se guardó el QR si no, informa de un error (pero no lo muestra)
     """
     os.system("cls")
@@ -61,7 +61,7 @@ def menu_qr_web():
 
 def menu_qr_vcard():
     """
-    Función que muestra el submeno de generar un QR de una vCard, recoge los datos y los manda a la función generadora,
+    Función que muestra el submenú de generar un QR de una vCard, recoge los datos y los manda a la función generadora,
     si todo ha salido bien indica que se guardó el QR si no, informa de un error (pero no lo muestra)
     """
     data = ["", "", "", "", ""]
